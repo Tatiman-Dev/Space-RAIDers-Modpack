@@ -1345,6 +1345,11 @@ hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "9648adc396c657371db47131f72bfa598681dab3d400a02b7cac961eeae4a87c"
 metafile = true
@@ -1765,6 +1770,21 @@ hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "666393d8db2a7f4efd6073d474f23a85b4624aabcf6270f9eda0a444b382e5b4"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "74b762a1793e20d98949589e6fda18bd609ba9bc44e8c78b6b2130cd7ef0717c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
+metafile = true
+
+[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "c53e494ad8d630ceadb0153257f4dbbbb671fc5219990688b466b843d18f3551"
 metafile = true
@@ -1865,6 +1885,11 @@ hash = "52f9c816f8d02ce1ffde51259c39b636207373c2de5ef754adb59e0c8ab39177"
 metafile = true
 
 [[files]]
+file = "mods/ponder.pw.toml"
+hash = "f6d440ee6152370d833549b57c903fa9d39e6f5c6656e5e070b6b353bf45be2b"
+metafile = true
+
+[[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "a5f1cf2dc6bbda2eec8f4c222d4ed5cd75b73037f1dcaf72e92beb5c37b21569"
 metafile = true
@@ -1902,6 +1927,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
 metafile = true
 
 [[files]]

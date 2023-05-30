@@ -1,12 +1,12 @@
-name = "Space RAIDers (1)"
+name = "Space RAIDers"
 author = "TatimanDev"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2e0c7822d026f1ed215a1e5f09d373eb0e8168fc7fa29fa2a88debf71d0cf4a8"
+hash = "32cfb17e436b898fb64797d2d23ee944f33cb5a7d1f295d0d136f778bb408217"
 
 [versions]
 forge = "43.2.10"
